@@ -1,0 +1,6 @@
+[submodule "backend/confi"]
+	path = backend/confi
+	url = https://github.com/Galaxy2161/tasty-taster-backend.git
+[submodule "frontend/sd-frontend"]
+	path = frontend/sd-frontend
+	url = https://github.com/Galaxy2161/tasty-taster-frontend.git
