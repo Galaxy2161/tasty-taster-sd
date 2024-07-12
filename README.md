@@ -10,7 +10,7 @@ Check out FRONTEND [LIVE DEMO](https://tasty-taster-frontend.netlify.app/) here!
 ## How to Install
 1. Git Clone
 ```bash
-
+git clone https://github.com/Galaxy2161/tasty-taster-sd.git
 ```
 2. Backend setting
 ```bash
