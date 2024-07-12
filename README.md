@@ -3,7 +3,7 @@
 Restaurant App, with a frontend built in React & Redux and a backend built in Django API.
 ```
 ## Live Demo
-Check out FRONTEND [LIVE DEMO](https://tasty-taster-frontend.netlify.app/) here!! Check out [API LIVE DEMO](https://backendapi-cooltees.onrender.com/api/) here!!
+Check out FRONTEND [LIVE DEMO](https://tasty-taster-frontend.netlify.app/) here!! Check out [API LIVE DEMO](https://tasty-taster-backend.onrender.com/) here!!
 ## Tech Used
 * Frontend : React & Redux
 * Backend : Django
